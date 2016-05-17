@@ -1,0 +1,110 @@
+body {
+	background-color: black;
+}
+
+
+#header {
+	background-color: blue;
+	height: 52px;
+	width: 1200px;
+	margin: auto;
+}
+
+#leaderboard {
+	background-color: white;
+	height: 400px;
+	width: 390px;
+	margin-top: 10px;
+	margin-left: 45px;
+	display: inline-block;
+}
+
+#fooddrink {
+	background-color: yellow;
+	height: 200px;
+	width: 195px;
+	margin-top: 10px;
+	margin-left: 5px;
+	display: inline-block;
+}
+
+#generalknowledge {
+	background-color: brown;
+	height: 200px;
+	width: 195px;
+	margin-top: 10px;
+	margin-left: 5px;
+	display: inline-block;
+}
+
+#history {
+	background-color: red;
+	height: 200px;
+	width: 390px;
+	margin-top: 10px;
+	margin-left: 5px;
+	display: inline-block;
+}
+
+#entertainment {
+	background-color: pink;
+	height: 200px;
+	width: 195px;
+	margin-top: 10px;
+	margin-left: 45px;
+	display: inline-block;
+}
+
+#sports {
+	background-color: lightblue;
+	height: 200px;
+	width: 190px;
+	margin-top: 10px;
+	margin-left: 5px;
+	display: inline-block;
+}
+
+#geography {
+	background-color: green;
+	height: 400px;
+	width: 390px;
+	margin-top: 10px;
+	margin-left: 5px;
+	display: inline-block;
+}
+
+#sciencenature {
+	background-color: violet;
+	height: 200px;
+	width: 190px;
+	margin-top: 10px;
+	margin-left: 5px;
+	display: inline-block;
+}
+
+#tvmovies {
+	background-color: purple;
+	height: 200px;
+	width: 190px;
+	margin-top: 10px;
+	margin-left: 5px;
+	display: inline-block;
+}
+
+#music {
+	background-color: turquoise;
+	height: 200px;
+	width: 190px;
+	margin-top: 10px;
+	margin-left: 5px;
+	display: inline-block;
+}
+
+#profile {
+	background-color: yellow;
+	height: 200px;
+	width: 190px;
+	display: inline-block;
+	margin-top: 10px;
+	margin-left: 5px;
+}
